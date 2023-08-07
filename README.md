@@ -3,7 +3,7 @@
 <h1 align="center">Hi there👋, I'm Sakal</h1>
 <h3 align="center">Data Scientist Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SakalYin&label=Profile%20views&color=0e75b6&style=flat" alt="SakalYin" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SakalYin&label=Profile%20views&color=brightgreen" alt="SakalYin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SakalYin" alt="SakalYin" /></a> </p>
 
