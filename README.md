@@ -3,7 +3,11 @@
 <h1 align="center">Hi there👋, I'm Sakal</h1>
 <h3 align="center">Data Scientist Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SakalYin&label=Profile%20views&color=brightgreen" alt="SakalYin" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SakalYin&label=Profile%20views&color=brightgreen" alt="SakalYin" /> </p>
+
+<p align="center">
+  <img src="https://github.com/SakalYin/SakalYin/blob/main/pop-pop-cat.gif" alt="pop-pop-cat" width="250">
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SakalYin" alt="SakalYin" /></a> </p>
 
@@ -16,8 +20,8 @@
 </p>
 
 <h3 align="left">Other :</h3>
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SakalYin&show_icons=true&locale=en&layout=compact" alt="SakalYin" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SakalYin&show_icons=true&locale=en&layout=compact" alt="SakalYin" /></p>
 
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SakalYin&show_icons=true&locale=en" alt="SakalYin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SakalYin&" alt="SakalYin" /></p>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SakalYin&" alt="SakalYin" /></p>
