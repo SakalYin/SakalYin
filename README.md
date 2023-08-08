@@ -20,7 +20,4 @@
 <a href="https://www.kaggle.com/sakalyin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/sakalyin" height="30" width="40" /></a>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SakalYin&show_icons=true&locale=en&layout=compact" alt="SakalYin" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SakalYin&show_icons=true&locale=en" alt="SakalYin" /></p>
 
