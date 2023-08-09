@@ -9,9 +9,6 @@
   <img src="https://github.com/SakalYin/SakalYin/blob/main/pop-pop-cat.gif" alt="pop-pop-cat" width="250">
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SakalYin&" alt="SakalYin" /></p>
-
-
 <h3 align="left">Connect with me :</h3>
 <p></p>Email me on : <b>sakalyin95@gmail.com</b><p>
 
