@@ -13,7 +13,7 @@
 <p></p>Email me on : <b>sakalyin95@gmail.com</b><p>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/sakal-yin-8a7877241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khon-yin-sakal/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/khon-yin-sakal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khon-yin-sakal/" height="30" width="40" /></a>
 </p>
 
 
