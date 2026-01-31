@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi there👋, I'm Sakal</h1>
-<h3 align="center">Data Scientist Student</h3>
+<h3 align="center">AI Engineer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SakalYin&label=Profile%20views&color=brightgreen" alt="SakalYin" /> </p>
 
