@@ -18,11 +18,11 @@
   <rect width="1200" height="300" fill="url(#s0_grid)"/>
 
   <!-- frame -->
-  <rect x="8" y="8" width="1184" height="284" fill="none" stroke="#FFFFFF" stroke-width="3"/>
-  <rect x="8" y="8" width="14" height="14" fill="#E8FF00"/>
-  <rect x="1178" y="8" width="14" height="14" fill="#E8FF00"/>
-  <rect x="8" y="278" width="14" height="14" fill="#E8FF00"/>
-  <rect x="1178" y="278" width="14" height="14" fill="#E8FF00"/>
+  <rect x="1.5" y="1.5" width="1197" height="297" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+  <rect x="3" y="3" width="14" height="14" fill="#E8FF00"/>
+  <rect x="1183" y="3" width="14" height="14" fill="#E8FF00"/>
+  <rect x="3" y="283" width="14" height="14" fill="#E8FF00"/>
+  <rect x="1183" y="283" width="14" height="14" fill="#E8FF00"/>
 
   <!-- tags -->
   <rect x="48" y="48" width="256" height="34" fill="#E8FF00"/>
@@ -43,9 +43,9 @@
   <text x="880" y="196" font-family="monospace" font-size="16" letter-spacing="2" fill="#9A9A9A">/// BASE UTC+07:00</text>
 
   <!-- bottom strip -->
-  <rect x="8" y="262" width="1184" height="30" fill="#E8FF00"/>
-  <text x="24" y="282" font-family="monospace" font-size="14" letter-spacing="1.5" fill="#000000">SAKALYIN // PROFILE README</text>
-  <text x="1176" y="282" text-anchor="end" font-family="monospace" font-size="14" letter-spacing="1.5" fill="#000000">BRUTALIST EDITION — 2026</text>
+  <rect x="3" y="267" width="1194" height="30" fill="#E8FF00"/>
+  <text x="19" y="287" font-family="monospace" font-size="14" letter-spacing="1.5" fill="#000000">SAKALYIN // PROFILE README</text>
+  <text x="1181" y="287" text-anchor="end" font-family="monospace" font-size="14" letter-spacing="1.5" fill="#000000">BRUTALIST EDITION — 2026</text>
 </g>
   <g transform="translate(64 356)">
   <title>Profile stats</title>
@@ -72,7 +72,7 @@
   <rect x="928" y="37" width="52" height="44" fill="#000000" stroke="#2E2E2E" stroke-width="1"/>
   <text x="954" y="66" text-anchor="middle" font-family="monospace" font-size="17" font-weight="bold" fill="#E8FF00">11</text>
 </g>
-  <g transform="translate(0 474)"><rect x="0" y="0" width="1328" height="52" fill="#000000"/></g>
+  <g transform="translate(0 474)"><rect width="1328" height="52" fill="#000000"/></g>
   <g transform="translate(64 526)">
   <defs>
     <pattern id="s3_hz01" width="24" height="24" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
@@ -139,7 +139,7 @@
   <!-- base -->
   <text x="56" y="606" font-family="monospace" font-size="20" fill="#9A9A9A">Base UTC+07:00 · English / ខ្មែរ</text>
 </g>
-  <g transform="translate(0 1224)"><rect x="0" y="0" width="1328" height="52" fill="#000000"/></g>
+  <g transform="translate(0 1224)"><rect width="1328" height="52" fill="#000000"/></g>
   <g transform="translate(64 1276)">
   <defs>
     <pattern id="s6_hz02" width="24" height="24" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
@@ -206,7 +206,7 @@
   <text x="283.5" y="456" font-family="monospace" font-size="16" fill="#8A8A8A">MORE</text>
   <text x="1152" y="456" text-anchor="end" font-family="monospace" font-size="15" fill="#4A4A4A">169 ACTIVE DAYS</text>
 </g>
-  <g transform="translate(0 1838)"><rect x="0" y="0" width="1328" height="52" fill="#000000"/></g>
+  <g transform="translate(0 1838)"><rect width="1328" height="52" fill="#000000"/></g>
   <g transform="translate(64 1890)">
   <defs>
     <pattern id="s9_hz03" width="24" height="24" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
@@ -222,7 +222,7 @@
   <rect x="1084" y="12" width="104" height="34" fill="url(#s9_hz03)" stroke="#E8FF00" stroke-width="2"/>
 </g>
   <g transform="translate(64 1948)">
-<rect x="0" y="0" width="1328" height="96" fill="#000000"/>
+    <rect width="1200" height="96" fill="#000000"/>
     <g transform="translate(60 22.5) scale(0.85)">
   <rect width="400" height="60" fill="#000000"/>
   <rect x="28" y="1.5" width="343" height="57" fill="none" stroke="#E8FF00" stroke-width="3"/>
@@ -252,7 +252,7 @@
   <text x="200" y="38" text-anchor="middle" font-family="monospace" font-size="22" font-weight="bold" letter-spacing="4" fill="#E8FF00">GITHUB</text>
 </g>
   </g>
-  <g transform="translate(0 2044)"><rect x="0" y="0" width="1328" height="52" fill="#000000"/></g>
+  <g transform="translate(0 2044)"><rect width="1328" height="52" fill="#000000"/></g>
   <g transform="translate(64 2096)">
   <defs>
     <pattern id="s12_hz" width="24" height="24" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
