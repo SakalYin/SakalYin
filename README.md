@@ -23,7 +23,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SakalYin&hide_border=true&background=0D0D0D&stroke=333333&ring=E8FF00&fire=E8FF00&currStreakLabel=E8FF00&sideLabels=E5E5E5&dates=8A8A8A&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Streak">
+<img src="https://raw.githubusercontent.com/SakalYin/SakalYin/main/assets/contribution-graph-2026.svg" alt="Contribution activity for 2026 — 2,104 contributions across 165 active days, rendered as a 53-week grid in the profile's black and acid-yellow palette." width="100%">
 
 </div>
 
