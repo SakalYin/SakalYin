@@ -13,11 +13,7 @@
 
 <br>
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│  01 — WHO                                                               │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+<img src="https://raw.githubusercontent.com/SakalYin/SakalYin/main/assets/section-01-who.svg" alt="01 — WHO" width="100%">
 
 **AI Engineer.** I build computer-vision and backend systems — the unglamorous
 kind that have to stay up at 3am. I care about readable code, measured
@@ -30,11 +26,7 @@ trade-offs, and interfaces that tell you the truth.
 
 <br>
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│  02 — STACK                                                             │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+<img src="https://raw.githubusercontent.com/SakalYin/SakalYin/main/assets/section-02-stack.svg" alt="02 — STACK" width="100%">
 
 <div align="center">
 
@@ -44,11 +36,7 @@ trade-offs, and interfaces that tell you the truth.
 
 <br>
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│  03 — NUMBERS                                                           │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+<img src="https://raw.githubusercontent.com/SakalYin/SakalYin/main/assets/section-03-numbers.svg" alt="03 — NUMBERS" width="100%">
 
 <div align="center">
 
@@ -67,11 +55,7 @@ trade-offs, and interfaces that tell you the truth.
 
 <br>
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│  04 — CONTACT                                                           │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+<img src="https://raw.githubusercontent.com/SakalYin/SakalYin/main/assets/section-04-contact.svg" alt="04 — CONTACT" width="100%">
 
 <div align="center">
 
