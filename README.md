@@ -15,10 +15,10 @@
 
 <img src="https://raw.githubusercontent.com/SakalYin/SakalYin/main/assets/section-01-who.svg" alt="01 — WHO" width="100%">
 
-**AI Engineer** · Data Science major. I work where language models meet
-real-world interfaces — the unglamorous kind that have to stay up at 3am. I
-care about readable code, measured trade-offs, and interfaces that tell you
-the truth.
+Currently working as an **AI Engineer** · Data Science major. I work where
+language models meet real-world interfaces — the unglamorous kind that have to
+stay up at 3am. I care about readable code, measured trade-offs, and interfaces
+that tell you the truth.
 
 Areas I work across:
 
