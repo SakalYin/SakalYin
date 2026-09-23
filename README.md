@@ -40,16 +40,7 @@ trade-offs, and interfaces that tell you the truth.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SakalYin&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=E8FF00&icon_color=E8FF00&text_color=E5E5E5&bg_color=0D0D0D" alt="GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakalYin&layout=compact&hide_border=true&langs_count=8&title_color=E8FF00&text_color=E5E5E5&bg_color=0D0D0D" alt="Top languages">
-
-<br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SakalYin&hide_border=true&background=0D0D0D&stroke=333333&ring=E8FF00&fire=E8FF00&currStreakLabel=E8FF00&sideLabels=E5E5E5&dates=8A8A8A&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Streak">
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SakalYin&bg_color=0D0D0D&color=E5E5E5&line=E8FF00&point=FFFFFF&area=true&hide_border=true&custom_title=COMMIT%20ACTIVITY" width="100%" alt="Activity graph">
 
 </div>
 
