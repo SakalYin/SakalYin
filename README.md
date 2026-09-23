@@ -26,17 +26,7 @@ trade-offs, and interfaces that tell you the truth.
 
 <br>
 
-<img src="https://raw.githubusercontent.com/SakalYin/SakalYin/main/assets/section-02-stack.svg" alt="02 — STACK" width="100%">
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,opencv,pytorch,tensorflow,fastapi,flask,postgres,redis,docker,git,linux,githubactions,vscode&theme=dark" alt="stack">
-
-</div>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/SakalYin/SakalYin/main/assets/section-03-numbers.svg" alt="03 — NUMBERS" width="100%">
+<img src="https://raw.githubusercontent.com/SakalYin/SakalYin/main/assets/section-02-numbers.svg" alt="02 — NUMBERS" width="100%">
 
 <div align="center">
 
@@ -46,13 +36,11 @@ trade-offs, and interfaces that tell you the truth.
 
 <br>
 
-<img src="https://raw.githubusercontent.com/SakalYin/SakalYin/main/assets/section-04-contact.svg" alt="04 — CONTACT" width="100%">
+<img src="https://raw.githubusercontent.com/SakalYin/SakalYin/main/assets/section-03-contact.svg" alt="03 — CONTACT" width="100%">
 
 <div align="center">
 
-[**LINKEDIN**](https://www.linkedin.com/in/khon-yin-sakal/) &nbsp;///&nbsp;
-[**EMAIL**](mailto:sakalyin95@gmail.com) &nbsp;///&nbsp;
-[**GITHUB**](https://github.com/SakalYin)
+<a href="https://www.linkedin.com/in/khon-yin-sakal/"><img src="https://raw.githubusercontent.com/SakalYin/SakalYin/main/assets/contact-linkedin.svg" alt="LinkedIn" height="60"></a>&nbsp;&nbsp;<a href="mailto:sakalyin95@gmail.com"><img src="https://raw.githubusercontent.com/SakalYin/SakalYin/main/assets/contact-email.svg" alt="Email" height="60"></a>&nbsp;&nbsp;<a href="https://github.com/SakalYin"><img src="https://raw.githubusercontent.com/SakalYin/SakalYin/main/assets/contact-github.svg" alt="GitHub" height="60"></a>
 
 </div>
 
