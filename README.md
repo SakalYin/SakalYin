@@ -15,15 +15,18 @@
 
 <img src="https://raw.githubusercontent.com/SakalYin/SakalYin/main/assets/section-01-who.svg" alt="01 — WHO" width="100%">
 
-**AI Engineer** · Data Science major. I build applications where language models
-do real work — the unglamorous kind that have to stay up at 3am. I care about
-readable code, measured trade-offs, and interfaces that tell you the truth.
+**AI Engineer** · Data Science major. I work where language models meet
+real-world interfaces — the unglamorous kind that have to stay up at 3am. I
+care about readable code, measured trade-offs, and interfaces that tell you
+the truth.
 
-- End-to-end speech-to-speech pipelines running on humanoid robot hardware
-- Conversational agents that pair LLMs with live 2D/3D avatars for presence
-- Custom agent harnesses — orchestration, tool use, context management
-- Fine-tuning LLMs and vision-language models for domain-specific tasks
-- Computer vision: detection, tracking, real-time inference
+Areas I work across:
+
+- **LLM applications** — agents, tool use, orchestration, context management
+- **Multimodal interfaces** — speech, avatars, embodied and robotics deployment
+- **Model adaptation** — fine-tuning and evaluating LLMs and vision-language models
+- **Computer vision** — detection, tracking, real-time inference
+- **Data science** — modelling, evaluation, data pipelines
 - Base **UTC+07:00** · English / ខ្មែរ
 
 <br>
