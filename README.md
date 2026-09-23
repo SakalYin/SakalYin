@@ -15,13 +15,15 @@
 
 <img src="https://raw.githubusercontent.com/SakalYin/SakalYin/main/assets/section-01-who.svg" alt="01 — WHO" width="100%">
 
-**AI Engineer.** I build computer-vision and backend systems — the unglamorous
-kind that have to stay up at 3am. I care about readable code, measured
-trade-offs, and interfaces that tell you the truth.
+**AI Engineer.** I build systems where language models do real work — the
+unglamorous kind that have to stay up at 3am. I care about readable code,
+measured trade-offs, and interfaces that tell you the truth.
 
-- Computer vision: detection, tracking, real-time inference pipelines
-- Backend: Python services, data plumbing, containerized deploys
-- Ask me about system design, model integration, or why your model is fast but wrong
+- End-to-end speech-to-speech pipelines running on humanoid robot hardware
+- Conversational agents that pair LLMs with live 2D/3D avatars for presence
+- Custom agent harnesses — orchestration, tool use, context management
+- Fine-tuning LLMs and vision-language models for domain-specific tasks
+- Computer vision: detection, tracking, real-time inference
 - Base **UTC+07:00** · English / ខ្មែរ
 
 <br>
