@@ -1,0 +1,281 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 2036" width="1200" height="2036" role="img" aria-label="Sakal Yin - AI Engineer. Profile: 3 followers, 0 stars, 627 views, 11 repositories. Work spans LLM apps and agents, speech and multimodal, model fine-tuning, computer vision and data science. Contribution activity for the last 12 months: 2,112 total, 169 active days, 25-day current streak, 28-day longest streak.">
+  <title>SakalYin profile</title>
+  <g transform="translate(0 0)">
+  <defs>
+    <pattern id="s0_grid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <rect x="59" y="0" width="1" height="60" fill="#171717"/>
+      <rect x="0" y="59" width="60" height="1" fill="#171717"/>
+    </pattern>
+    <pattern id="s0_hazard" width="28" height="28" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="28" height="28" fill="#000000"/>
+      <rect width="14" height="28" fill="#E8FF00"/>
+    </pattern>
+  </defs>
+
+  <!-- canvas + exposed grid -->
+  <rect width="1200" height="300" fill="#000000"/>
+  <rect width="1200" height="300" fill="url(#s0_grid)"/>
+
+  <!-- frame -->
+  <rect x="8" y="8" width="1184" height="284" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+  <rect x="8" y="8" width="14" height="14" fill="#E8FF00"/>
+  <rect x="1178" y="8" width="14" height="14" fill="#E8FF00"/>
+  <rect x="8" y="278" width="14" height="14" fill="#E8FF00"/>
+  <rect x="1178" y="278" width="14" height="14" fill="#E8FF00"/>
+
+  <!-- tags -->
+  <rect x="48" y="48" width="256" height="34" fill="#E8FF00"/>
+  <text x="60" y="71" font-family="monospace" font-size="18" font-weight="bold" letter-spacing="2" fill="#000000">AI ENGINEER // 01</text>
+  <rect x="316" y="48" width="214" height="34" fill="none" stroke="#E8FF00" stroke-width="2"/>
+  <text x="328" y="71" font-family="monospace" font-size="18" letter-spacing="2" fill="#E8FF00">STATUS: ONLINE</text>
+
+  <!-- wordmark -->
+  <text x="48" y="178" font-family="monospace" font-size="118" font-weight="bold" letter-spacing="10" fill="#FFFFFF">SAKAL YIN</text>
+  <rect x="792" y="114" width="32" height="64" fill="#E8FF00"/>
+
+  <!-- rules + subtitle -->
+  <rect x="48" y="196" width="760" height="6" fill="#E8FF00"/>
+  <text x="48" y="234" font-family="monospace" font-size="20" letter-spacing="4" fill="#9A9A9A">LLM WRANGLING · MULTIMODAL · DATA SCIENCE</text>
+
+  <!-- hazard panel + side notes -->
+  <rect x="880" y="48" width="264" height="120" fill="url(#s0_hazard)" stroke="#FFFFFF" stroke-width="4"/>
+  <text x="880" y="196" font-family="monospace" font-size="16" letter-spacing="2" fill="#9A9A9A">/// BASE UTC+07:00</text>
+
+  <!-- bottom strip -->
+  <rect x="8" y="262" width="1184" height="30" fill="#E8FF00"/>
+  <text x="24" y="282" font-family="monospace" font-size="14" letter-spacing="1.5" fill="#000000">SAKALYIN // PROFILE README</text>
+  <text x="1176" y="282" text-anchor="end" font-family="monospace" font-size="14" letter-spacing="1.5" fill="#000000">BRUTALIST EDITION — 2026</text>
+</g>
+  <g transform="translate(0 300)">
+  <title>Profile stats</title>
+  <rect width="1200" height="118" fill="#000000"/>
+  <rect x="1.5" y="1.5" width="1197" height="115" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+  <rect x="11" y="11" width="12" height="12" fill="#E8FF00"/>
+  <rect x="11" y="95" width="12" height="12" fill="#E8FF00"/>
+  <rect x="1177" y="11" width="12" height="12" fill="#E8FF00"/>
+  <rect x="1177" y="95" width="12" height="12" fill="#E8FF00"/>
+  <rect x="220" y="37" width="168" height="44" fill="#E8FF00"/>
+  <text x="304" y="65" text-anchor="middle" font-family="monospace" font-size="13" font-weight="bold" letter-spacing="2" fill="#000000">FOLLOWERS</text>
+  <rect x="388" y="37" width="52" height="44" fill="#000000" stroke="#2E2E2E" stroke-width="1"/>
+  <text x="414" y="66" text-anchor="middle" font-family="monospace" font-size="17" font-weight="bold" fill="#E8FF00">3</text>
+  <rect x="454" y="37" width="118" height="44" fill="#E8FF00"/>
+  <text x="513" y="65" text-anchor="middle" font-family="monospace" font-size="13" font-weight="bold" letter-spacing="2" fill="#000000">STARS</text>
+  <rect x="572" y="37" width="52" height="44" fill="#000000" stroke="#2E2E2E" stroke-width="1"/>
+  <text x="598" y="66" text-anchor="middle" font-family="monospace" font-size="17" font-weight="bold" fill="#E8FF00">0</text>
+  <rect x="638" y="37" width="112" height="44" fill="#333333"/>
+  <text x="694" y="65" text-anchor="middle" font-family="monospace" font-size="13" font-weight="bold" letter-spacing="2" fill="#E5E5E5">VIEWS</text>
+  <rect x="750" y="37" width="52" height="44" fill="#000000" stroke="#2E2E2E" stroke-width="1"/>
+  <text x="776" y="66" text-anchor="middle" font-family="monospace" font-size="17" font-weight="bold" fill="#E5E5E5">627</text>
+  <rect x="816" y="37" width="112" height="44" fill="#E8FF00"/>
+  <text x="872" y="65" text-anchor="middle" font-family="monospace" font-size="13" font-weight="bold" letter-spacing="2" fill="#000000">REPOS</text>
+  <rect x="928" y="37" width="52" height="44" fill="#000000" stroke="#2E2E2E" stroke-width="1"/>
+  <text x="954" y="66" text-anchor="middle" font-family="monospace" font-size="17" font-weight="bold" fill="#E8FF00">11</text>
+</g>
+  <g transform="translate(0 418)">
+  <rect width="1200" height="40" fill="#000000"/>
+</g>
+  <g transform="translate(0 458)">
+  <defs>
+    <pattern id="s3_hz01" width="24" height="24" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="24" height="24" fill="#000000"/>
+      <rect width="12" height="24" fill="#E8FF00"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="58" fill="#000000"/>
+  <rect x="1.5" y="1.5" width="1197" height="55" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+  <rect x="12" y="12" width="58" height="34" fill="#E8FF00"/>
+  <text x="41" y="36" text-anchor="middle" font-family="monospace" font-size="22" font-weight="bold" fill="#000000">01</text>
+  <text x="90" y="38" font-family="monospace" font-size="24" font-weight="bold" letter-spacing="6" fill="#FFFFFF">WHO</text>
+  <rect x="1084" y="12" width="104" height="34" fill="url(#s3_hz01)" stroke="#E8FF00" stroke-width="2"/>
+</g>
+  <g transform="translate(0 516)">
+  <defs>
+    <pattern id="s4_biogrid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <rect x="59" y="0" width="1" height="60" fill="#141414"/>
+      <rect x="0" y="59" width="60" height="1" fill="#141414"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="640" fill="#000000"/>
+  <rect width="1200" height="640" fill="url(#s4_biogrid)"/>
+  <rect x="1.5" y="1.5" width="1197" height="637" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+  <rect x="11" y="11" width="12" height="12" fill="#E8FF00"/>
+  <rect x="1177" y="11" width="12" height="12" fill="#E8FF00"/>
+  <rect x="11" y="617" width="12" height="12" fill="#E8FF00"/>
+  <rect x="1177" y="617" width="12" height="12" fill="#E8FF00"/>
+
+  <!-- intro -->
+  <text x="56" y="80" font-family="monospace" font-size="22" fill="#E5E5E5">Hey, I'm Sakal — <tspan fill="#FFFFFF" font-weight="bold">AI Engineer</tspan> by day, also by night. My degree says</text>
+  <text x="56" y="112" font-family="monospace" font-size="22" fill="#E5E5E5"><tspan fill="#FFFFFF" font-weight="bold">Data Science</tspan> and I do actually use it. I make language models do</text>
+  <text x="56" y="144" font-family="monospace" font-size="22" fill="#E5E5E5">useful things, including at 3am when they would much rather be asleep.</text>
+
+  <!-- label -->
+  <text x="56" y="194" font-family="monospace" font-size="15" letter-spacing="4" fill="#E8FF00">STUFF I DO:</text>
+
+  <!-- bullet 1 -->
+  <rect x="56" y="230" width="10" height="10" fill="#E8FF00"/>
+  <text x="88" y="240" font-family="monospace" font-size="21" fill="#8A8A8A"><tspan fill="#FFFFFF" font-weight="bold">LLM apps &amp; agents</tspan> — tools, orchestration, and enough context</text>
+  <text x="88" y="268" font-family="monospace" font-size="21" fill="#8A8A8A">management to stop a bot confidently inventing your API</text>
+
+  <!-- bullet 2 -->
+  <rect x="56" y="302" width="10" height="10" fill="#E8FF00"/>
+  <text x="88" y="312" font-family="monospace" font-size="21" fill="#8A8A8A"><tspan fill="#FFFFFF" font-weight="bold">Speech &amp; multimodal</tspan> — voices, avatars, and the occasional</text>
+  <text x="88" y="340" font-family="monospace" font-size="21" fill="#8A8A8A">robot that actually listens back</text>
+
+  <!-- bullet 3 -->
+  <rect x="56" y="374" width="10" height="10" fill="#E8FF00"/>
+  <text x="88" y="384" font-family="monospace" font-size="21" fill="#8A8A8A"><tspan fill="#FFFFFF" font-weight="bold">Model wrangling</tspan> — fine-tuning LLMs and VLMs until they</text>
+  <text x="88" y="412" font-family="monospace" font-size="21" fill="#8A8A8A">stop being so confidently wrong</text>
+
+  <!-- bullet 4 -->
+  <rect x="56" y="446" width="10" height="10" fill="#E8FF00"/>
+  <text x="88" y="456" font-family="monospace" font-size="21" fill="#8A8A8A"><tspan fill="#FFFFFF" font-weight="bold">Computer vision</tspan> — detection, tracking, and arguing with a</text>
+  <text x="88" y="484" font-family="monospace" font-size="21" fill="#8A8A8A">live camera feed</text>
+
+  <!-- bullet 5 -->
+  <rect x="56" y="518" width="10" height="10" fill="#E8FF00"/>
+  <text x="88" y="528" font-family="monospace" font-size="21" fill="#8A8A8A"><tspan fill="#FFFFFF" font-weight="bold">Data science</tspan> — modelling, evaluating, and explaining what</text>
+  <text x="88" y="556" font-family="monospace" font-size="21" fill="#8A8A8A">the numbers meant</text>
+
+  <!-- base -->
+  <text x="56" y="606" font-family="monospace" font-size="20" fill="#9A9A9A">Base UTC+07:00 · English / ខ្មែរ</text>
+</g>
+  <g transform="translate(0 1156)">
+  <rect width="1200" height="40" fill="#000000"/>
+</g>
+  <g transform="translate(0 1196)">
+  <defs>
+    <pattern id="s6_hz02" width="24" height="24" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="24" height="24" fill="#000000"/>
+      <rect width="12" height="24" fill="#E8FF00"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="58" fill="#000000"/>
+  <rect x="1.5" y="1.5" width="1197" height="55" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+  <rect x="12" y="12" width="58" height="34" fill="#E8FF00"/>
+  <text x="41" y="36" text-anchor="middle" font-family="monospace" font-size="22" font-weight="bold" fill="#000000">02</text>
+  <text x="90" y="38" font-family="monospace" font-size="24" font-weight="bold" letter-spacing="6" fill="#FFFFFF">NUMBERS</text>
+  <rect x="1084" y="12" width="104" height="34" fill="url(#s6_hz02)" stroke="#E8FF00" stroke-width="2"/>
+</g>
+  <g transform="translate(0 1254)">
+  <defs><pattern id="s7_cggrid" width="60" height="60" patternUnits="userSpaceOnUse">
+    <rect x="59" y="0" width="1" height="60" fill="#141414"/><rect x="0" y="59" width="60" height="1" fill="#141414"/>
+  </pattern></defs>
+  <rect width="1200" height="504" fill="#000000"/><rect width="1200" height="504" fill="url(#s7_cggrid)"/>
+  <rect x="1.5" y="1.5" width="1197" height="501" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+  <rect x="11" y="11" width="12" height="12" fill="#E8FF00"/>
+  <rect x="11" y="481" width="12" height="12" fill="#E8FF00"/>
+  <rect x="1177" y="11" width="12" height="12" fill="#E8FF00"/>
+  <rect x="1177" y="481" width="12" height="12" fill="#E8FF00"/>
+  <rect x="416" y="72" width="2" height="124" fill="#262626"/>
+  <rect x="784" y="72" width="2" height="124" fill="#262626"/>
+  <text x="232" y="124" text-anchor="middle" font-family="monospace" font-size="46" font-weight="bold" fill="#FFFFFF">2,112</text>
+  <text x="232" y="168" text-anchor="middle" font-family="monospace" font-size="16" letter-spacing="3" fill="#8A8A8A">TOTAL CONTRIBUTIONS</text>
+  <text x="232" y="192" text-anchor="middle" font-family="monospace" font-size="14" fill="#5C5C5C">Sep 24, 2025 - Sep 23, 2026</text>
+  <circle cx="600" cy="106" r="34" fill="none" stroke="#E8FF00" stroke-width="5"/>
+  <text x="600" y="118" text-anchor="middle" font-family="monospace" font-size="30" font-weight="bold" fill="#FFFFFF">25</text>
+  <text x="600" y="168" text-anchor="middle" font-family="monospace" font-size="16" letter-spacing="3" fill="#E8FF00">CURRENT STREAK</text>
+  <text x="600" y="192" text-anchor="middle" font-family="monospace" font-size="14" fill="#8A8A8A">Aug 30 - Sep 23</text>
+  <text x="968" y="124" text-anchor="middle" font-family="monospace" font-size="46" font-weight="bold" fill="#FFFFFF">28</text>
+  <text x="968" y="168" text-anchor="middle" font-family="monospace" font-size="16" letter-spacing="3" fill="#8A8A8A">LONGEST STREAK</text>
+  <text x="968" y="192" text-anchor="middle" font-family="monospace" font-size="14" fill="#5C5C5C">Jul 11 - Aug 7</text>
+  <rect x="48" y="216" width="1104" height="5" fill="#E8FF00"/>
+  <text x="117.5" y="266" font-family="monospace" font-size="16" letter-spacing="1" fill="#9A9A9A">OCT</text>
+  <text x="193.5" y="266" font-family="monospace" font-size="16" letter-spacing="1" fill="#9A9A9A">NOV</text>
+  <text x="288.5" y="266" font-family="monospace" font-size="16" letter-spacing="1" fill="#9A9A9A">DEC</text>
+  <text x="364.5" y="266" font-family="monospace" font-size="16" letter-spacing="1" fill="#9A9A9A">JAN</text>
+  <text x="440.5" y="266" font-family="monospace" font-size="16" letter-spacing="1" fill="#9A9A9A">FEB</text>
+  <text x="516.5" y="266" font-family="monospace" font-size="16" letter-spacing="1" fill="#9A9A9A">MAR</text>
+  <text x="611.5" y="266" font-family="monospace" font-size="16" letter-spacing="1" fill="#9A9A9A">APR</text>
+  <text x="687.5" y="266" font-family="monospace" font-size="16" letter-spacing="1" fill="#9A9A9A">MAY</text>
+  <text x="782.5" y="266" font-family="monospace" font-size="16" letter-spacing="1" fill="#9A9A9A">JUN</text>
+  <text x="858.5" y="266" font-family="monospace" font-size="16" letter-spacing="1" fill="#9A9A9A">JUL</text>
+  <text x="934.5" y="266" font-family="monospace" font-size="16" letter-spacing="1" fill="#9A9A9A">AUG</text>
+  <text x="1029.5" y="266" font-family="monospace" font-size="16" letter-spacing="1" fill="#9A9A9A">SEP</text>
+  <text x="82.5" y="292" text-anchor="end" font-family="monospace" font-size="15" fill="#8A8A8A">MON</text>
+  <text x="82.5" y="330" text-anchor="end" font-family="monospace" font-size="15" fill="#8A8A8A">WED</text>
+  <text x="82.5" y="368" text-anchor="end" font-family="monospace" font-size="15" fill="#8A8A8A">FRI</text>
+  <path fill="#1A1A1A" d="M98.5 318h15v15h-15zM98.5 337h15v15h-15zM98.5 356h15v15h-15zM98.5 375h15v15h-15zM98.5 394h15v15h-15zM117.5 280h15v15h-15zM117.5 299h15v15h-15zM117.5 318h15v15h-15zM117.5 337h15v15h-15zM117.5 356h15v15h-15zM117.5 375h15v15h-15zM117.5 394h15v15h-15zM136.5 280h15v15h-15zM136.5 299h15v15h-15zM136.5 318h15v15h-15zM136.5 337h15v15h-15zM136.5 356h15v15h-15zM136.5 375h15v15h-15zM136.5 394h15v15h-15zM155.5 280h15v15h-15zM155.5 299h15v15h-15zM155.5 318h15v15h-15zM155.5 337h15v15h-15zM155.5 356h15v15h-15zM155.5 375h15v15h-15zM155.5 394h15v15h-15zM174.5 280h15v15h-15zM174.5 299h15v15h-15zM174.5 318h15v15h-15zM174.5 337h15v15h-15zM174.5 356h15v15h-15zM174.5 375h15v15h-15zM174.5 394h15v15h-15zM193.5 280h15v15h-15zM193.5 299h15v15h-15zM193.5 318h15v15h-15zM193.5 337h15v15h-15zM193.5 356h15v15h-15zM193.5 375h15v15h-15zM193.5 394h15v15h-15zM212.5 280h15v15h-15zM212.5 299h15v15h-15zM212.5 318h15v15h-15zM212.5 337h15v15h-15zM212.5 356h15v15h-15zM212.5 375h15v15h-15zM212.5 394h15v15h-15zM231.5 280h15v15h-15zM231.5 299h15v15h-15zM231.5 318h15v15h-15zM231.5 337h15v15h-15zM231.5 356h15v15h-15zM231.5 375h15v15h-15zM231.5 394h15v15h-15zM250.5 280h15v15h-15zM250.5 299h15v15h-15zM250.5 318h15v15h-15zM250.5 375h15v15h-15zM250.5 394h15v15h-15zM269.5 280h15v15h-15zM269.5 299h15v15h-15zM269.5 318h15v15h-15zM269.5 356h15v15h-15zM269.5 375h15v15h-15zM269.5 394h15v15h-15zM288.5 280h15v15h-15zM288.5 299h15v15h-15zM288.5 337h15v15h-15zM288.5 356h15v15h-15zM288.5 375h15v15h-15zM288.5 394h15v15h-15zM307.5 280h15v15h-15zM307.5 299h15v15h-15zM307.5 318h15v15h-15zM307.5 337h15v15h-15zM307.5 356h15v15h-15zM307.5 375h15v15h-15zM307.5 394h15v15h-15zM326.5 280h15v15h-15zM326.5 299h15v15h-15zM326.5 318h15v15h-15zM326.5 337h15v15h-15zM326.5 356h15v15h-15zM326.5 375h15v15h-15zM326.5 394h15v15h-15zM345.5 280h15v15h-15zM345.5 299h15v15h-15zM345.5 318h15v15h-15zM345.5 337h15v15h-15zM345.5 356h15v15h-15zM345.5 375h15v15h-15zM345.5 394h15v15h-15zM364.5 280h15v15h-15zM364.5 299h15v15h-15zM364.5 318h15v15h-15zM364.5 337h15v15h-15zM364.5 356h15v15h-15zM364.5 375h15v15h-15zM364.5 394h15v15h-15zM383.5 280h15v15h-15zM383.5 299h15v15h-15zM383.5 318h15v15h-15zM383.5 375h15v15h-15zM383.5 394h15v15h-15zM402.5 280h15v15h-15zM402.5 375h15v15h-15zM402.5 394h15v15h-15zM421.5 318h15v15h-15zM421.5 394h15v15h-15zM459.5 299h15v15h-15zM459.5 375h15v15h-15zM459.5 394h15v15h-15zM478.5 280h15v15h-15zM478.5 356h15v15h-15zM478.5 375h15v15h-15zM478.5 394h15v15h-15zM497.5 318h15v15h-15zM497.5 375h15v15h-15zM497.5 394h15v15h-15zM516.5 299h15v15h-15zM516.5 337h15v15h-15zM516.5 356h15v15h-15zM516.5 375h15v15h-15zM516.5 394h15v15h-15zM535.5 280h15v15h-15zM535.5 375h15v15h-15zM535.5 394h15v15h-15zM554.5 356h15v15h-15zM554.5 375h15v15h-15zM554.5 394h15v15h-15zM573.5 280h15v15h-15zM573.5 299h15v15h-15zM573.5 318h15v15h-15zM573.5 337h15v15h-15zM573.5 356h15v15h-15zM573.5 375h15v15h-15zM573.5 394h15v15h-15zM592.5 280h15v15h-15zM592.5 318h15v15h-15zM592.5 337h15v15h-15zM592.5 356h15v15h-15zM592.5 375h15v15h-15zM592.5 394h15v15h-15zM611.5 280h15v15h-15zM611.5 299h15v15h-15zM611.5 318h15v15h-15zM611.5 337h15v15h-15zM611.5 356h15v15h-15zM611.5 375h15v15h-15zM611.5 394h15v15h-15zM630.5 356h15v15h-15zM630.5 394h15v15h-15zM649.5 280h15v15h-15zM649.5 299h15v15h-15zM649.5 318h15v15h-15zM649.5 375h15v15h-15zM649.5 394h15v15h-15zM668.5 299h15v15h-15zM668.5 337h15v15h-15zM668.5 375h15v15h-15zM668.5 394h15v15h-15zM687.5 318h15v15h-15zM687.5 375h15v15h-15zM706.5 299h15v15h-15zM706.5 375h15v15h-15zM706.5 394h15v15h-15zM725.5 299h15v15h-15zM725.5 318h15v15h-15zM725.5 337h15v15h-15zM725.5 356h15v15h-15zM725.5 375h15v15h-15zM725.5 394h15v15h-15zM744.5 318h15v15h-15zM744.5 356h15v15h-15zM744.5 375h15v15h-15zM744.5 394h15v15h-15zM763.5 280h15v15h-15zM763.5 299h15v15h-15zM763.5 318h15v15h-15zM763.5 337h15v15h-15zM763.5 356h15v15h-15zM763.5 375h15v15h-15zM763.5 394h15v15h-15zM782.5 356h15v15h-15zM782.5 375h15v15h-15zM782.5 394h15v15h-15zM801.5 318h15v15h-15zM801.5 337h15v15h-15zM801.5 394h15v15h-15zM820.5 280h15v15h-15zM820.5 356h15v15h-15zM877.5 337h15v15h-15zM877.5 356h15v15h-15zM953.5 375h15v15h-15zM991.5 394h15v15h-15zM1010.5 375h15v15h-15z"/>
+  <path fill="#4A5300" d="M250.5 337h15v15h-15zM250.5 356h15v15h-15zM269.5 337h15v15h-15zM288.5 318h15v15h-15zM383.5 337h15v15h-15zM383.5 356h15v15h-15zM402.5 299h15v15h-15zM402.5 318h15v15h-15zM402.5 337h15v15h-15zM402.5 356h15v15h-15zM421.5 280h15v15h-15zM421.5 299h15v15h-15zM421.5 337h15v15h-15zM421.5 356h15v15h-15zM421.5 375h15v15h-15zM440.5 280h15v15h-15zM440.5 299h15v15h-15zM440.5 318h15v15h-15zM440.5 337h15v15h-15zM440.5 356h15v15h-15zM440.5 375h15v15h-15zM440.5 394h15v15h-15zM459.5 280h15v15h-15zM459.5 318h15v15h-15zM459.5 337h15v15h-15zM459.5 356h15v15h-15zM478.5 299h15v15h-15zM478.5 318h15v15h-15zM478.5 337h15v15h-15zM497.5 280h15v15h-15zM497.5 299h15v15h-15zM497.5 337h15v15h-15zM497.5 356h15v15h-15zM516.5 280h15v15h-15zM516.5 318h15v15h-15zM535.5 299h15v15h-15zM535.5 318h15v15h-15zM535.5 337h15v15h-15zM535.5 356h15v15h-15zM554.5 280h15v15h-15zM554.5 299h15v15h-15zM554.5 318h15v15h-15zM554.5 337h15v15h-15zM592.5 299h15v15h-15zM630.5 280h15v15h-15zM630.5 299h15v15h-15zM630.5 318h15v15h-15zM630.5 337h15v15h-15zM630.5 375h15v15h-15zM649.5 337h15v15h-15zM649.5 356h15v15h-15zM668.5 280h15v15h-15zM668.5 318h15v15h-15zM687.5 299h15v15h-15zM687.5 337h15v15h-15zM687.5 356h15v15h-15zM687.5 394h15v15h-15zM706.5 318h15v15h-15zM725.5 280h15v15h-15zM744.5 280h15v15h-15zM744.5 299h15v15h-15zM782.5 280h15v15h-15zM782.5 299h15v15h-15zM782.5 318h15v15h-15zM782.5 337h15v15h-15zM801.5 299h15v15h-15zM801.5 356h15v15h-15zM801.5 375h15v15h-15zM820.5 299h15v15h-15zM820.5 318h15v15h-15zM820.5 337h15v15h-15zM820.5 375h15v15h-15zM820.5 394h15v15h-15zM839.5 280h15v15h-15zM839.5 299h15v15h-15zM839.5 318h15v15h-15zM839.5 337h15v15h-15zM839.5 375h15v15h-15zM858.5 280h15v15h-15zM858.5 299h15v15h-15zM858.5 375h15v15h-15zM858.5 394h15v15h-15zM877.5 280h15v15h-15zM877.5 299h15v15h-15zM877.5 318h15v15h-15zM877.5 394h15v15h-15zM896.5 299h15v15h-15zM896.5 318h15v15h-15zM896.5 337h15v15h-15zM896.5 356h15v15h-15zM896.5 375h15v15h-15zM896.5 394h15v15h-15zM915.5 299h15v15h-15zM915.5 337h15v15h-15zM915.5 394h15v15h-15zM934.5 375h15v15h-15zM934.5 394h15v15h-15zM953.5 280h15v15h-15zM953.5 299h15v15h-15zM953.5 337h15v15h-15zM953.5 356h15v15h-15zM953.5 394h15v15h-15zM972.5 280h15v15h-15zM972.5 356h15v15h-15zM991.5 280h15v15h-15zM991.5 356h15v15h-15zM991.5 375h15v15h-15zM1010.5 394h15v15h-15zM1029.5 299h15v15h-15zM1029.5 318h15v15h-15zM1029.5 337h15v15h-15zM1029.5 356h15v15h-15zM1029.5 375h15v15h-15zM1048.5 280h15v15h-15zM1048.5 337h15v15h-15zM1048.5 356h15v15h-15zM1067.5 356h15v15h-15zM1067.5 375h15v15h-15zM1086.5 299h15v15h-15zM1086.5 318h15v15h-15z"/>
+  <path fill="#8F9C00" d="M668.5 356h15v15h-15zM687.5 280h15v15h-15zM801.5 280h15v15h-15zM858.5 318h15v15h-15zM858.5 337h15v15h-15zM858.5 356h15v15h-15zM877.5 375h15v15h-15zM896.5 280h15v15h-15zM915.5 280h15v15h-15zM915.5 375h15v15h-15zM934.5 280h15v15h-15zM934.5 337h15v15h-15zM953.5 318h15v15h-15zM972.5 299h15v15h-15zM972.5 318h15v15h-15zM972.5 337h15v15h-15zM972.5 375h15v15h-15zM972.5 394h15v15h-15zM991.5 337h15v15h-15zM1010.5 280h15v15h-15zM1010.5 299h15v15h-15zM1010.5 318h15v15h-15zM1010.5 337h15v15h-15zM1029.5 280h15v15h-15zM1029.5 394h15v15h-15zM1048.5 299h15v15h-15zM1048.5 375h15v15h-15zM1048.5 394h15v15h-15zM1067.5 280h15v15h-15zM1067.5 299h15v15h-15zM1067.5 337h15v15h-15zM1086.5 280h15v15h-15z"/>
+  <path fill="#C6D700" d="M706.5 280h15v15h-15zM706.5 337h15v15h-15zM706.5 356h15v15h-15zM744.5 337h15v15h-15zM839.5 394h15v15h-15zM915.5 356h15v15h-15zM991.5 299h15v15h-15zM1048.5 318h15v15h-15zM1067.5 394h15v15h-15z"/>
+  <path fill="#E8FF00" d="M839.5 356h15v15h-15zM915.5 318h15v15h-15zM934.5 299h15v15h-15zM934.5 318h15v15h-15zM934.5 356h15v15h-15zM991.5 318h15v15h-15zM1010.5 356h15v15h-15zM1067.5 318h15v15h-15z"/>
+  <text x="98.5" y="456" font-family="monospace" font-size="16" fill="#8A8A8A">LESS</text>
+  <rect x="162.5" y="443" width="15" height="15" fill="#1A1A1A"/>
+  <rect x="185.5" y="443" width="15" height="15" fill="#4A5300"/>
+  <rect x="208.5" y="443" width="15" height="15" fill="#8F9C00"/>
+  <rect x="231.5" y="443" width="15" height="15" fill="#C6D700"/>
+  <rect x="254.5" y="443" width="15" height="15" fill="#E8FF00"/>
+  <text x="283.5" y="456" font-family="monospace" font-size="16" fill="#8A8A8A">MORE</text>
+  <text x="1152" y="456" text-anchor="end" font-family="monospace" font-size="15" fill="#4A4A4A">169 ACTIVE DAYS</text>
+</g>
+  <g transform="translate(0 1758)">
+  <rect width="1200" height="40" fill="#000000"/>
+</g>
+  <g transform="translate(0 1798)">
+  <defs>
+    <pattern id="s9_hz03" width="24" height="24" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="24" height="24" fill="#000000"/>
+      <rect width="12" height="24" fill="#E8FF00"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="58" fill="#000000"/>
+  <rect x="1.5" y="1.5" width="1197" height="55" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+  <rect x="12" y="12" width="58" height="34" fill="#E8FF00"/>
+  <text x="41" y="36" text-anchor="middle" font-family="monospace" font-size="22" font-weight="bold" fill="#000000">03</text>
+  <text x="90" y="38" font-family="monospace" font-size="24" font-weight="bold" letter-spacing="6" fill="#FFFFFF">CONTACT</text>
+  <rect x="1084" y="12" width="104" height="34" fill="url(#s9_hz03)" stroke="#E8FF00" stroke-width="2"/>
+</g>
+  <g transform="translate(0 1856)">
+  <g><rect width="1200" height="96" fill="#000000"/></g>
+  <g transform="translate(60 22.5) scale(0.85)">
+  <rect width="400" height="60" fill="#000000"/>
+  <rect x="28" y="1.5" width="343" height="57" fill="none" stroke="#E8FF00" stroke-width="3"/>
+  <rect x="34" y="8" width="8" height="8" fill="#E8FF00"/>
+  <rect x="357" y="8" width="8" height="8" fill="#E8FF00"/>
+  <rect x="34" y="44" width="8" height="8" fill="#E8FF00"/>
+  <rect x="357" y="44" width="8" height="8" fill="#E8FF00"/>
+  <text x="200" y="38" text-anchor="middle" font-family="monospace" font-size="22" font-weight="bold" letter-spacing="4" fill="#E8FF00">LINKEDIN</text>
+</g>
+  <g transform="translate(430 22.5) scale(0.85)">
+  <rect width="400" height="60" fill="#000000"/>
+  <rect x="22" y="1.5" width="355" height="57" fill="#E8FF00"/>
+  <rect x="28" y="7" width="343" height="46" fill="none" stroke="#000000" stroke-width="3"/>
+  <rect x="34" y="13" width="8" height="8" fill="#000000"/>
+  <rect x="357" y="13" width="8" height="8" fill="#000000"/>
+  <rect x="34" y="39" width="8" height="8" fill="#000000"/>
+  <rect x="357" y="39" width="8" height="8" fill="#000000"/>
+  <text x="200" y="38" text-anchor="middle" font-family="monospace" font-size="22" font-weight="bold" letter-spacing="4" fill="#000000">EMAIL</text>
+</g>
+  <g transform="translate(800 22.5) scale(0.85)">
+  <rect width="400" height="60" fill="#000000"/>
+  <rect x="28" y="1.5" width="343" height="57" fill="none" stroke="#E8FF00" stroke-width="3"/>
+  <rect x="34" y="8" width="8" height="8" fill="#E8FF00"/>
+  <rect x="357" y="8" width="8" height="8" fill="#E8FF00"/>
+  <rect x="34" y="44" width="8" height="8" fill="#E8FF00"/>
+  <rect x="357" y="44" width="8" height="8" fill="#E8FF00"/>
+  <text x="200" y="38" text-anchor="middle" font-family="monospace" font-size="22" font-weight="bold" letter-spacing="4" fill="#E8FF00">GITHUB</text>
+</g>
+  </g>
+  <g transform="translate(0 1952)">
+  <rect width="1200" height="40" fill="#000000"/>
+</g>
+  <g transform="translate(0 1992)">
+  <defs>
+    <pattern id="s12_hz" width="24" height="24" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="24" height="24" fill="#000000"/>
+      <rect width="12" height="24" fill="#E8FF00"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="22" fill="url(#s12_hz)"/>
+</g>
+  <g transform="translate(0 2014)">
+  <defs>
+    <pattern id="s13_hz" width="24" height="24" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="24" height="24" fill="#000000"/>
+      <rect width="12" height="24" fill="#E8FF00"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="22" fill="url(#s13_hz)"/>
+</g>
+</svg>
