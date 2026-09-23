@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 640" width="1200" height="640" role="img" aria-label="Hey, I'm Sakal, AI Engineer and Data Science graduate. I work on LLM apps and agents, speech and multimodal interfaces, model fine-tuning, computer vision, and data science. Based in UTC+07:00.">
+  <defs>
+    <pattern id="biogrid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <rect x="59" y="0" width="1" height="60" fill="#141414"/>
+      <rect x="0" y="59" width="60" height="1" fill="#141414"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="640" fill="#000000"/>
+  <rect width="1200" height="640" fill="url(#biogrid)"/>
+  <rect x="1.5" y="1.5" width="1197" height="637" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+  <rect x="11" y="11" width="12" height="12" fill="#E8FF00"/>
+  <rect x="1177" y="11" width="12" height="12" fill="#E8FF00"/>
+  <rect x="11" y="617" width="12" height="12" fill="#E8FF00"/>
+  <rect x="1177" y="617" width="12" height="12" fill="#E8FF00"/>
+
+  <!-- intro -->
+  <text x="56" y="80" font-family="monospace" font-size="22" fill="#E5E5E5">Hey, I'm Sakal — <tspan fill="#FFFFFF" font-weight="bold">AI Engineer</tspan> by day, also by night. My degree says</text>
+  <text x="56" y="112" font-family="monospace" font-size="22" fill="#E5E5E5"><tspan fill="#FFFFFF" font-weight="bold">Data Science</tspan> and I do actually use it. I make language models do</text>
+  <text x="56" y="144" font-family="monospace" font-size="22" fill="#E5E5E5">useful things, including at 3am when they would much rather be asleep.</text>
+
+  <!-- label -->
+  <text x="56" y="194" font-family="monospace" font-size="15" letter-spacing="4" fill="#E8FF00">STUFF I DO:</text>
+
+  <!-- bullet 1 -->
+  <rect x="56" y="230" width="10" height="10" fill="#E8FF00"/>
+  <text x="88" y="240" font-family="monospace" font-size="21" fill="#8A8A8A"><tspan fill="#FFFFFF" font-weight="bold">LLM apps &amp; agents</tspan> — tools, orchestration, and enough context</text>
+  <text x="88" y="268" font-family="monospace" font-size="21" fill="#8A8A8A">management to stop a bot confidently inventing your API</text>
+
+  <!-- bullet 2 -->
+  <rect x="56" y="302" width="10" height="10" fill="#E8FF00"/>
+  <text x="88" y="312" font-family="monospace" font-size="21" fill="#8A8A8A"><tspan fill="#FFFFFF" font-weight="bold">Speech &amp; multimodal</tspan> — voices, avatars, and the occasional</text>
+  <text x="88" y="340" font-family="monospace" font-size="21" fill="#8A8A8A">robot that actually listens back</text>
+
+  <!-- bullet 3 -->
+  <rect x="56" y="374" width="10" height="10" fill="#E8FF00"/>
+  <text x="88" y="384" font-family="monospace" font-size="21" fill="#8A8A8A"><tspan fill="#FFFFFF" font-weight="bold">Model wrangling</tspan> — fine-tuning LLMs and VLMs until they</text>
+  <text x="88" y="412" font-family="monospace" font-size="21" fill="#8A8A8A">stop being so confidently wrong</text>
+
+  <!-- bullet 4 -->
+  <rect x="56" y="446" width="10" height="10" fill="#E8FF00"/>
+  <text x="88" y="456" font-family="monospace" font-size="21" fill="#8A8A8A"><tspan fill="#FFFFFF" font-weight="bold">Computer vision</tspan> — detection, tracking, and arguing with a</text>
+  <text x="88" y="484" font-family="monospace" font-size="21" fill="#8A8A8A">live camera feed</text>
+
+  <!-- bullet 5 -->
+  <rect x="56" y="518" width="10" height="10" fill="#E8FF00"/>
+  <text x="88" y="528" font-family="monospace" font-size="21" fill="#8A8A8A"><tspan fill="#FFFFFF" font-weight="bold">Data science</tspan> — modelling, evaluating, and explaining what</text>
+  <text x="88" y="556" font-family="monospace" font-size="21" fill="#8A8A8A">the numbers meant</text>
+
+  <!-- base -->
+  <text x="56" y="606" font-family="monospace" font-size="20" fill="#9A9A9A">Base UTC+07:00 · English / ខ្មែរ</text>
+</svg>

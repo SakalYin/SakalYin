@@ -15,19 +15,7 @@
 
 <img src="https://raw.githubusercontent.com/SakalYin/SakalYin/main/assets/section-01-who.svg" alt="01 — WHO" width="100%">
 
-Currently working as an **AI Engineer** · Data Science major. I work where
-language models meet real-world interfaces — the unglamorous kind that have to
-stay up at 3am. I care about readable code, measured trade-offs, and interfaces
-that tell you the truth.
-
-Areas I work across:
-
-- **LLM applications** — agents, tool use, orchestration, context management
-- **Multimodal interfaces** — speech, avatars, embodied and robotics deployment
-- **Model adaptation** — fine-tuning and evaluating LLMs and vision-language models
-- **Computer vision** — detection, tracking, real-time inference
-- **Data science** — modelling, evaluation, data pipelines
-- Base **UTC+07:00** · English / ខ្មែរ
+<img src="https://raw.githubusercontent.com/SakalYin/SakalYin/main/assets/bio-who.svg" alt="Hey, I'm Sakal — AI Engineer and Data Science graduate. I work on LLM apps and agents, speech and multimodal interfaces, model fine-tuning, computer vision, and data science. Based UTC+07:00." width="100%">
 
 <br>
 
