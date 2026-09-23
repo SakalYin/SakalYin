@@ -23,7 +23,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SakalYin/SakalYin/main/assets/contribution-graph-2026.svg" alt="Contribution activity for 2026 — 2,104 contributions across 165 active days, rendered as a 53-week grid in the profile's black and acid-yellow palette." width="100%">
+<img src="https://raw.githubusercontent.com/SakalYin/SakalYin/main/assets/contribution-graph.svg" alt="Contribution activity for the last 12 months, Sep 24 2025 to Sep 23 2026 — 2,112 contributions across 169 active days, with a 25-day current streak and a 28-day longest streak, drawn as a 53-week grid in the profile's black and acid-yellow palette." width="100%">
 
 </div>
 
