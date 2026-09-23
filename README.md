@@ -4,10 +4,7 @@
 
 <br>
 
-<a href="https://github.com/SakalYin?tab=followers"><img src="https://img.shields.io/github/followers/SakalYin?label=FOLLOWERS&style=for-the-badge&labelColor=000000&color=E8FF00" alt="followers"></a>
-<a href="https://github.com/SakalYin"><img src="https://img.shields.io/github/stars/SakalYin?label=STARS&style=for-the-badge&labelColor=000000&color=E8FF00" alt="stars"></a>
-<img src="https://komarev.com/ghpvc/?username=SakalYin&label=VIEWS&color=000000" alt="profile views">
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLAB-000000?style=for-the-badge&labelColor=E8FF00" alt="open to collaboration">
+<img src="https://raw.githubusercontent.com/SakalYin/SakalYin/main/assets/badges.svg" alt="Followers, stars, profile views and repository count." width="100%">
 
 </div>
 

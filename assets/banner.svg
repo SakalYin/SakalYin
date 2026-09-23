@@ -37,8 +37,7 @@
 
   <!-- hazard panel + side notes -->
   <rect x="880" y="48" width="264" height="120" fill="url(#hazard)" stroke="#FFFFFF" stroke-width="4"/>
-  <text x="880" y="196" font-family="monospace" font-size="16" letter-spacing="2" fill="#E8FF00">/// OPEN TO COLLAB</text>
-  <text x="880" y="220" font-family="monospace" font-size="16" letter-spacing="2" fill="#9A9A9A">/// BASE UTC+07:00</text>
+  <text x="880" y="196" font-family="monospace" font-size="16" letter-spacing="2" fill="#9A9A9A">/// BASE UTC+07:00</text>
 
   <!-- bottom strip -->
   <rect x="8" y="262" width="1184" height="30" fill="#E8FF00"/>
