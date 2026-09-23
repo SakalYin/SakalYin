@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 22" width="1200" height="22" preserveAspectRatio="none" role="presentation">
+  <defs>
+    <pattern id="hz" width="24" height="24" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="24" height="24" fill="#000000"/>
+      <rect width="12" height="24" fill="#E8FF00"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="22" fill="url(#hz)"/>
+</svg>

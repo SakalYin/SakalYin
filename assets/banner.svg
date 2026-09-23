@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Sakal Yin — AI Engineer">
+  <defs>
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <rect x="59" y="0" width="1" height="60" fill="#171717"/>
+      <rect x="0" y="59" width="60" height="1" fill="#171717"/>
+    </pattern>
+    <pattern id="hazard" width="28" height="28" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="28" height="28" fill="#000000"/>
+      <rect width="14" height="28" fill="#E8FF00"/>
+    </pattern>
+  </defs>
+
+  <!-- canvas + exposed grid -->
+  <rect width="1200" height="300" fill="#000000"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+
+  <!-- frame -->
+  <rect x="8" y="8" width="1184" height="284" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+  <rect x="8" y="8" width="14" height="14" fill="#E8FF00"/>
+  <rect x="1178" y="8" width="14" height="14" fill="#E8FF00"/>
+  <rect x="8" y="278" width="14" height="14" fill="#E8FF00"/>
+  <rect x="1178" y="278" width="14" height="14" fill="#E8FF00"/>
+
+  <!-- tags -->
+  <rect x="48" y="48" width="256" height="34" fill="#E8FF00"/>
+  <text x="60" y="71" font-family="monospace" font-size="18" font-weight="bold" letter-spacing="2" fill="#000000">AI ENGINEER // 01</text>
+  <rect x="316" y="48" width="214" height="34" fill="none" stroke="#E8FF00" stroke-width="2"/>
+  <text x="328" y="71" font-family="monospace" font-size="18" letter-spacing="2" fill="#E8FF00">STATUS: ONLINE</text>
+
+  <!-- wordmark -->
+  <text x="48" y="178" font-family="monospace" font-size="118" font-weight="bold" letter-spacing="10" fill="#FFFFFF">SAKAL YIN</text>
+  <rect x="792" y="114" width="32" height="64" fill="#E8FF00"/>
+
+  <!-- rules + subtitle -->
+  <rect x="48" y="196" width="760" height="6" fill="#E8FF00"/>
+  <text x="48" y="234" font-family="monospace" font-size="20" letter-spacing="4" fill="#9A9A9A">COMPUTER VISION · BACKEND · PYTHON</text>
+
+  <!-- hazard panel + side notes -->
+  <rect x="880" y="48" width="264" height="120" fill="url(#hazard)" stroke="#FFFFFF" stroke-width="4"/>
+  <text x="880" y="196" font-family="monospace" font-size="16" letter-spacing="2" fill="#E8FF00">/// OPEN TO COLLAB</text>
+  <text x="880" y="220" font-family="monospace" font-size="16" letter-spacing="2" fill="#9A9A9A">/// BASE UTC+07:00</text>
+
+  <!-- bottom strip -->
+  <rect x="8" y="262" width="1184" height="30" fill="#E8FF00"/>
+  <text x="24" y="282" font-family="monospace" font-size="14" letter-spacing="1.5" fill="#000000">SAKALYIN // PROFILE README</text>
+  <text x="1176" y="282" text-anchor="end" font-family="monospace" font-size="14" letter-spacing="1.5" fill="#000000">BRUTALIST EDITION — 2026</text>
+</svg>
