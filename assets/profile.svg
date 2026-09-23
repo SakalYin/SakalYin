@@ -1,6 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 2036" width="1200" height="2036" role="img" aria-label="Sakal Yin - AI Engineer. Profile: 3 followers, 0 stars, 627 views, 11 repositories. Work spans LLM apps and agents, speech and multimodal, model fine-tuning, computer vision and data science. Contribution activity for the last 12 months: 2,112 total, 169 active days, 25-day current streak, 28-day longest streak.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1328 2196" width="1328" height="2196" role="img" aria-label="Sakal Yin - AI Engineer. Profile: 3 followers, 0 stars, 627 views, 11 repositories. Work spans LLM apps and agents, speech and multimodal, model fine-tuning, computer vision and data science. Contribution activity for the last 12 months: 2,112 total, 169 active days, 25-day current streak, 28-day longest streak.">
   <title>SakalYin profile</title>
-  <g transform="translate(0 0)">
+  <rect width="1328" height="2196" fill="#000000"/>
+  <g transform="translate(64 56)">
   <defs>
     <pattern id="s0_grid" width="60" height="60" patternUnits="userSpaceOnUse">
       <rect x="59" y="0" width="1" height="60" fill="#171717"/>
@@ -46,7 +47,7 @@
   <text x="24" y="282" font-family="monospace" font-size="14" letter-spacing="1.5" fill="#000000">SAKALYIN // PROFILE README</text>
   <text x="1176" y="282" text-anchor="end" font-family="monospace" font-size="14" letter-spacing="1.5" fill="#000000">BRUTALIST EDITION — 2026</text>
 </g>
-  <g transform="translate(0 300)">
+  <g transform="translate(64 356)">
   <title>Profile stats</title>
   <rect width="1200" height="118" fill="#000000"/>
   <rect x="1.5" y="1.5" width="1197" height="115" fill="none" stroke="#FFFFFF" stroke-width="3"/>
@@ -71,10 +72,8 @@
   <rect x="928" y="37" width="52" height="44" fill="#000000" stroke="#2E2E2E" stroke-width="1"/>
   <text x="954" y="66" text-anchor="middle" font-family="monospace" font-size="17" font-weight="bold" fill="#E8FF00">11</text>
 </g>
-  <g transform="translate(0 418)">
-  <rect width="1200" height="40" fill="#000000"/>
-</g>
-  <g transform="translate(0 458)">
+  <g transform="translate(0 474)"><rect x="0" y="0" width="1328" height="52" fill="#000000"/></g>
+  <g transform="translate(64 526)">
   <defs>
     <pattern id="s3_hz01" width="24" height="24" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
       <rect width="24" height="24" fill="#000000"/>
@@ -88,7 +87,7 @@
   <text x="90" y="38" font-family="monospace" font-size="24" font-weight="bold" letter-spacing="6" fill="#FFFFFF">WHO</text>
   <rect x="1084" y="12" width="104" height="34" fill="url(#s3_hz01)" stroke="#E8FF00" stroke-width="2"/>
 </g>
-  <g transform="translate(0 516)">
+  <g transform="translate(64 584)">
   <defs>
     <pattern id="s4_biogrid" width="60" height="60" patternUnits="userSpaceOnUse">
       <rect x="59" y="0" width="1" height="60" fill="#141414"/>
@@ -140,10 +139,8 @@
   <!-- base -->
   <text x="56" y="606" font-family="monospace" font-size="20" fill="#9A9A9A">Base UTC+07:00 · English / ខ្មែរ</text>
 </g>
-  <g transform="translate(0 1156)">
-  <rect width="1200" height="40" fill="#000000"/>
-</g>
-  <g transform="translate(0 1196)">
+  <g transform="translate(0 1224)"><rect x="0" y="0" width="1328" height="52" fill="#000000"/></g>
+  <g transform="translate(64 1276)">
   <defs>
     <pattern id="s6_hz02" width="24" height="24" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
       <rect width="24" height="24" fill="#000000"/>
@@ -157,7 +154,7 @@
   <text x="90" y="38" font-family="monospace" font-size="24" font-weight="bold" letter-spacing="6" fill="#FFFFFF">NUMBERS</text>
   <rect x="1084" y="12" width="104" height="34" fill="url(#s6_hz02)" stroke="#E8FF00" stroke-width="2"/>
 </g>
-  <g transform="translate(0 1254)">
+  <g transform="translate(64 1334)">
   <defs><pattern id="s7_cggrid" width="60" height="60" patternUnits="userSpaceOnUse">
     <rect x="59" y="0" width="1" height="60" fill="#141414"/><rect x="0" y="59" width="60" height="1" fill="#141414"/>
   </pattern></defs>
@@ -209,10 +206,8 @@
   <text x="283.5" y="456" font-family="monospace" font-size="16" fill="#8A8A8A">MORE</text>
   <text x="1152" y="456" text-anchor="end" font-family="monospace" font-size="15" fill="#4A4A4A">169 ACTIVE DAYS</text>
 </g>
-  <g transform="translate(0 1758)">
-  <rect width="1200" height="40" fill="#000000"/>
-</g>
-  <g transform="translate(0 1798)">
+  <g transform="translate(0 1838)"><rect x="0" y="0" width="1328" height="52" fill="#000000"/></g>
+  <g transform="translate(64 1890)">
   <defs>
     <pattern id="s9_hz03" width="24" height="24" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
       <rect width="24" height="24" fill="#000000"/>
@@ -226,9 +221,9 @@
   <text x="90" y="38" font-family="monospace" font-size="24" font-weight="bold" letter-spacing="6" fill="#FFFFFF">CONTACT</text>
   <rect x="1084" y="12" width="104" height="34" fill="url(#s9_hz03)" stroke="#E8FF00" stroke-width="2"/>
 </g>
-  <g transform="translate(0 1856)">
-  <g><rect width="1200" height="96" fill="#000000"/></g>
-  <g transform="translate(60 22.5) scale(0.85)">
+  <g transform="translate(64 1948)">
+<rect x="0" y="0" width="1328" height="96" fill="#000000"/>
+    <g transform="translate(60 22.5) scale(0.85)">
   <rect width="400" height="60" fill="#000000"/>
   <rect x="28" y="1.5" width="343" height="57" fill="none" stroke="#E8FF00" stroke-width="3"/>
   <rect x="34" y="8" width="8" height="8" fill="#E8FF00"/>
@@ -237,7 +232,7 @@
   <rect x="357" y="44" width="8" height="8" fill="#E8FF00"/>
   <text x="200" y="38" text-anchor="middle" font-family="monospace" font-size="22" font-weight="bold" letter-spacing="4" fill="#E8FF00">LINKEDIN</text>
 </g>
-  <g transform="translate(430 22.5) scale(0.85)">
+    <g transform="translate(430 22.5) scale(0.85)">
   <rect width="400" height="60" fill="#000000"/>
   <rect x="22" y="1.5" width="355" height="57" fill="#E8FF00"/>
   <rect x="28" y="7" width="343" height="46" fill="none" stroke="#000000" stroke-width="3"/>
@@ -247,7 +242,7 @@
   <rect x="357" y="39" width="8" height="8" fill="#000000"/>
   <text x="200" y="38" text-anchor="middle" font-family="monospace" font-size="22" font-weight="bold" letter-spacing="4" fill="#000000">EMAIL</text>
 </g>
-  <g transform="translate(800 22.5) scale(0.85)">
+    <g transform="translate(800 22.5) scale(0.85)">
   <rect width="400" height="60" fill="#000000"/>
   <rect x="28" y="1.5" width="343" height="57" fill="none" stroke="#E8FF00" stroke-width="3"/>
   <rect x="34" y="8" width="8" height="8" fill="#E8FF00"/>
@@ -257,10 +252,8 @@
   <text x="200" y="38" text-anchor="middle" font-family="monospace" font-size="22" font-weight="bold" letter-spacing="4" fill="#E8FF00">GITHUB</text>
 </g>
   </g>
-  <g transform="translate(0 1952)">
-  <rect width="1200" height="40" fill="#000000"/>
-</g>
-  <g transform="translate(0 1992)">
+  <g transform="translate(0 2044)"><rect x="0" y="0" width="1328" height="52" fill="#000000"/></g>
+  <g transform="translate(64 2096)">
   <defs>
     <pattern id="s12_hz" width="24" height="24" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
       <rect width="24" height="24" fill="#000000"/>
@@ -269,7 +262,7 @@
   </defs>
   <rect width="1200" height="22" fill="url(#s12_hz)"/>
 </g>
-  <g transform="translate(0 2014)">
+  <g transform="translate(64 2118)">
   <defs>
     <pattern id="s13_hz" width="24" height="24" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
       <rect width="24" height="24" fill="#000000"/>
