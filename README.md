@@ -4,6 +4,6 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/khon-yin-sakal/"><img src="https://raw.githubusercontent.com/SakalYin/SakalYin/main/assets/contact-linkedin.svg" alt="LinkedIn" height="56"></a>&nbsp;<a href="mailto:sakalyin95@gmail.com"><img src="https://raw.githubusercontent.com/SakalYin/SakalYin/main/assets/contact-email.svg" alt="Email" height="56"></a>&nbsp;<a href="https://github.com/SakalYin"><img src="https://raw.githubusercontent.com/SakalYin/SakalYin/main/assets/contact-github.svg" alt="GitHub" height="56"></a>
+<a href="https://www.linkedin.com/in/khon-yin-sakal/"><img src="https://raw.githubusercontent.com/SakalYin/SakalYin/main/assets/contact-linkedin.svg" alt="LinkedIn" height="56"></a>&nbsp;<a href="mailto:sakalyin95@gmail.com"><img src="https://raw.githubusercontent.com/SakalYin/SakalYin/main/assets/contact-email.svg" alt="Email — sakalyin95@gmail.com" height="56"></a>
 
 </div>
